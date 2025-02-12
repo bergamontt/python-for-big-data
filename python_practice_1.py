@@ -1,0 +1,1 @@
+print("Daria Bulavina, Group 1, 2025")
